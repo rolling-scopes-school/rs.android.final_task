@@ -6,7 +6,7 @@ You can implement anything, it's totally up to you. Working in a team is prohibi
 - Clean Architecture should be used on the app level. The code suould be divided to data, domain and presentation layers. See the example with data flow below:
 <img src="./Architecture/App-level.svg">
 
-- MVVM/MVI architecure should be used on presentation layer. On presentation level we are working with UI-level/Domain-level models, data layer models are prohoboted. Mapping should proceed on the domain layer. See the example below:
+- MVVM/MVI architecure should be used on presentation layer. On presentation level we are working with UI-level/Domain-level models, data layer models are prohoboted. See the example below:
 <img src="./Architecture/Presentation.svg">
 
 - Kotlin Coroutines should be used for async/concurrent operations.
