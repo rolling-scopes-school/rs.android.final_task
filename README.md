@@ -27,13 +27,9 @@ Before the deadline, every student have to make a short(up to 10 minutes) record
 The following message should be sent to the #final-task discord channel:
 
 - Name: Name Surname
+- Location < location e.g. Minsk, Belarus >
 - Discord: < discord nick >
 - Github: < github nick >
 - Mentor: Name Surname
 - App: < link to the github repo >
 - Demo: < link to the recorded video >
-
-
-
-
-
